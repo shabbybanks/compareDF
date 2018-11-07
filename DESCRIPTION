@@ -9,7 +9,7 @@ Description: Compares two dataframes which have the same column
     to quickly see what has changes in addition to summary statistics.
 License: MIT + file LICENSE
 Depends:
-    R (>= 3.4.0)
+    R (>= 3.2.2)
 Imports:
     dplyr (>= 0.4.3),
     magrittr (>= 1.5),
